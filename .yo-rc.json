@@ -1,0 +1,20 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "useGulp": false,
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "22.22.0",
+    "sdksVersions": {},
+    "version": "1.23.0",
+    "libraryName": "spfx-command-customizer",
+    "libraryId": "bd994ab3-6a9c-4a78-bda3-c7229783fbec",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "spfx-command-customizer",
+    "solutionShortDescription": "spfx-command-customizer description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ListViewCommandSet"
+  }
+}
